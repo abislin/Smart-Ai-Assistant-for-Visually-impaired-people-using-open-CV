@@ -88,4 +88,4 @@ Feel free to fork, submit issues, or contribute to this project!
 
 For queries, reach out via GitHub Issues.
 
-Mail:madesh61waran@gmail.com
+Mail:abislinbabi33@gmail.com
