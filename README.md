@@ -1,0 +1,1 @@
+# Smart-Ai-Assistant-for-Visually-impaired-people-using-open-CV
